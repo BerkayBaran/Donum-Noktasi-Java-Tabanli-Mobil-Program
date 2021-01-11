@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Donum Noktası</string>
+    <string name="interneteBaglanildiTxt">Internete Baglanildi!</string>
+    <string name="internetBaglantisiYokTxt">Internet baglantiniz yok!</string>
+    <string name="interneteBaglanTxt"> Uygulamayi kullanmak icin Internete baglanin!</string>
+    <string name="internetiAcButton">Interneti Ac</string>
+    <string name="lutfenBekleyinizTxt">Lutfen Bekleyiniz</string>
+    <string name="progressDialog">ProgressDialog Kutucugu</string>
+    <string name="cikisTxt">Uygulamadan cikis yapmak istiyor musunuz?</string>
+    <string name="kapatButton">Kapat</string>
+    <string name="evetButton">Evet</string>
+    <string name="hayirButton">Hayır</string>
+    <string name="baglanilamadiTxt">Baglanilamadi Exception:</string>
+</resources>

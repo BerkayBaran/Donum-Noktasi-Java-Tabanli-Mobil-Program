@@ -13,7 +13,8 @@
 ![5](https://user-images.githubusercontent.com/53614606/104223976-63e77a80-5455-11eb-92b2-38f02f082b62.jpg)
 
 ### Clean Simple Architecture
-![simplearcss](https://user-images.githubusercontent.com/53614606/104224223-bcb71300-5455-11eb-934c-1bd28e442430.jpg)
+![fdxzgbzedr](https://user-images.githubusercontent.com/53614606/104960957-63675a80-59e6-11eb-9bd7-bdd02b2b21ce.jpeg)
+
 
 ### Libraries and tools
 * [Retrofit2](https://github.com/square/retrofit)
